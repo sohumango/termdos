@@ -1,5 +1,5 @@
 # termdos
-Linux term commands like dos commands
+Linux term commands like dos commands  
 link windows command to Linux command   
 
 ls --> dir  
