@@ -1,0 +1,1 @@
+setx path "%path%;%1%2%3"

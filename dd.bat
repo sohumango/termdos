@@ -1,0 +1,1 @@
+@start "" explorer "ftp://YJW:YJW@192.168.1.142"

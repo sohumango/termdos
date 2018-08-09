@@ -1,0 +1,1 @@
+@wmic MemoryChip get BankLabel, Capacity, MemoryType, Speed, Tag

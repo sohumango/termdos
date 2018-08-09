@@ -1,0 +1,1 @@
+@start "" control.exe /name Microsoft.PowerOptions /page  pageGlobalSettings
